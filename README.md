@@ -1,2 +1,2 @@
-#DesktopIconTerminator
-YOLOv3でWindowsのデスクトップアイコンを識別し、ゴミ箱にすべてを移動するAIを作ってみました
+# DesktopIconTerminator
+YOLOv3縺ｧWindows縺ｮ繝�繧ｹ繧ｯ繝医ャ繝励い繧､繧ｳ繝ｳ繧定ｭ伜挨縺励√ざ繝溽ｮｱ縺ｫ縺吶∋縺ｦ繧堤ｧｻ蜍輔☆繧帰I繧剃ｽ懊▲縺ｦ縺ｿ縺ｾ縺励◆
