@@ -1,2 +1,7 @@
 # DesktopIconTerminator
 YOLOv3でWindowsのデスクトップアイコンを識別し、ゴミ箱にすべてを移動するAIを作ってみました
+
+YOLOv3を使って、Windowsのデスクトップアイコンを識別します。その識別結果をもとに、すべてのアイコンをゴミ箱に移動させています。
+詳しい説明は以下のQiitaを参考にしてください。
+
+https://qiita.com/yasunari_matsuo/items/2ac2140e7ac250304d4a
